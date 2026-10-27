@@ -11,6 +11,6 @@ This repository contains the official implementation of our paper:
 
 We are currently cleaning up the codebase and preparing a comprehensive release package. 
 
-**The code will be released no later than the start of ECCV 2026 (September 2026).**
+**The code will be released no later than the 12 2026.**
 
 We appreciate your patience and interest in our work!
